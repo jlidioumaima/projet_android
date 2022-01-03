@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769734446843",
+    "firebase_url": "https://oumaima-taxi-default-rtdb.firebaseio.com",
+    "project_id": "oumaima-taxi",
+    "storage_bucket": "oumaima-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769734446843:android:6ebda17bc8a68057d12a5e",
+        "android_client_info": {
+          "package_name": "com.example.oumaima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769734446843-silevn7eno4b4aj7ite72lkk3s9g3t40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEJM1sEHwhYx3txIipdnARwmUaA6iBaOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769734446843-silevn7eno4b4aj7ite72lkk3s9g3t40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
